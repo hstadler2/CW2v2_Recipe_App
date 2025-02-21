@@ -1,3 +1,9 @@
+/*
+Harrison Stadler
+CW2v2 - Recipe Book App
+CSC 4360
+*/
+
 // recipe.dart
 // Defines the structure for recipes, including title, ingredients, instructions, image URL, and favorite status.
 

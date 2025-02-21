@@ -1,3 +1,15 @@
+/*
+Harrison Stadler
+CW2v2 - Recipe Book App
+CSC 4360
+*/
+
+/*
+Harrison Stadler
+CW2v2 - Recipe Book App
+CSC 4360
+*/
+
 // favorites_screen.dart
 // Screen displaying all the recipes marked as favorites.
 

@@ -1,3 +1,9 @@
+/*
+Harrison Stadler
+CW2v2 - Recipe Book App
+CSC 4360
+*/
+
 // home_screen.dart
 // Home screen showing a list of recipes with their images and allowing navigation to detailed views.
 

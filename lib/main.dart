@@ -1,3 +1,9 @@
+/*
+Harrison Stadler
+CW2v2 - Recipe Book App
+CSC 4360
+*/
+
 // main.dart
 // Entry point for the Recipe Book app, setting up the theme and initial route.
 

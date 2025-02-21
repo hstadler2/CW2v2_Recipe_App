@@ -2,16 +2,12 @@
 Harrison Stadler
 CW2v2 - Recipe Book App
 CSC 4360
-*/
 
-/*
-Harrison Stadler
-CW2v2 - Recipe Book App
-CSC 4360
-*/
+I knnow I didn't have to add this screen bc I'm not a grad student, but I decided to do so anyways.
 
-// favorites_screen.dart
-// Screen displaying all the recipes marked as favorites.
+favorites_screen.dart
+Screen displaying all the recipes marked as favorites.
+*/
 
 import 'package:flutter/material.dart';
 import 'recipe.dart';

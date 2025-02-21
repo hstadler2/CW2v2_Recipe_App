@@ -2,10 +2,10 @@
 Harrison Stadler
 CW2v2 - Recipe Book App
 CSC 4360
-*/
 
-// details_screen.dart
-// Screen for displaying detailed information about a selected recipe, including an option to mark it as a favorite.
+details_screen.dart
+Screen for displaying detailed information about a selected recipe, including an option to mark it as a favorite.
+*/
 
 import 'package:flutter/material.dart';
 import 'recipe.dart';

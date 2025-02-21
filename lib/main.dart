@@ -2,10 +2,12 @@
 Harrison Stadler
 CW2v2 - Recipe Book App
 CSC 4360
+
+main.dart
+Entry point for the Recipe Book app, setting up the theme and initial route.
 */
 
-// main.dart
-// Entry point for the Recipe Book app, setting up the theme and initial route.
+
 
 import 'package:flutter/material.dart';
 import 'home_screen.dart';  // Make sure this file is correctly linked to your HomeScreen.

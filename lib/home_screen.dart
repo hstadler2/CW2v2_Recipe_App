@@ -2,10 +2,10 @@
 Harrison Stadler
 CW2v2 - Recipe Book App
 CSC 4360
-*/
 
-// home_screen.dart
-// Home screen showing a list of recipes with their images and allowing navigation to detailed views.
+home_screen.dart
+Home screen showing a list of recipes with their images and allowing navigation to detailed views.
+*/
 
 import 'package:flutter/material.dart';
 import 'details_screen.dart';
